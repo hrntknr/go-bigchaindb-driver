@@ -1,4 +1,4 @@
-package main
+package bigchaindbdriver
 
 import (
 	"bytes"
@@ -9,7 +9,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/go-interledger/cryptoconditions"
+	// "github.com/go-interledger/cryptoconditions"
+	"github.com/hrntknr/cryptoconditions"
 	"github.com/hrntknr/go-bigchaindb-driver/base58"
 	"golang.org/x/crypto/ed25519"
 	"golang.org/x/crypto/sha3"

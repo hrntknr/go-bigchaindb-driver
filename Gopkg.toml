@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/go-interledger/cryptoconditions"
+  name = "github.com/hrntknr/cryptoconditions"
 
 [[constraint]]
   branch = "master"

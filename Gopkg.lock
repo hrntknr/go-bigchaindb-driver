@@ -3,9 +3,9 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/go-interledger/cryptoconditions"
+  name = "github.com/hrntknr/cryptoconditions"
   packages = ["."]
-  revision = "a57d446dfc186d882a889cb5d4971a9c137210f9"
+  revision = "2b988ec5f367eb05e75643da33ecf389f2a4e8cf"
 
 [[projects]]
   branch = "master"
@@ -38,6 +38,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "a90c548099e674de014aeb1d4ac3f94a6be885dbfda30461643b0b31d490f43e"
+  inputs-digest = "b3c8a91da5f608982420848f855bb6917c3962ece8219471ceb7bfb58e58a0c6"
   solver-name = "gps-cdcl"
   solver-version = 1
